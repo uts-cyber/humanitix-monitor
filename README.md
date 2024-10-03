@@ -1,6 +1,8 @@
 # humanitix-monitor
 sends message to slack webhook when new tickets are sold on humanitix
 
+hosted on cloudflare workers + kv, fully serverless and FREE :))
+
 excuse the terrible code 
 
 o(*￣▽￣*)ブ
