@@ -1,5 +1,5 @@
 export default {
-	async fetch(request, env, ctx) {
+	async scheduled(request, env, ctx) {
 		let value = await env.count.get("total");
 		let valueint = parseInt(value);
 		console.log(valueint)
