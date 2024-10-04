@@ -7,3 +7,6 @@ compatibility_flags = ["nodejs_compat"]
 kv_namespaces = [
   { binding = "count", id = "kv namespace id here, get from cf portal" }
 ]
+
+[observability]
+enabled = true
